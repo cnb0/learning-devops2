@@ -1,0 +1,111 @@
+
+## Automate your Jenkins jobs by using Jenkins Pipelines, Docker, and the Jenkins Job DSL
+
+ DevOps way - Jenkins Pipelines 
+ 
+integrate Jenkins Pipelines with popular software tools, like:
+        
+
+- Use Jenkins to perform Continuous Integration within your Software Development Lifecycle
+- Install Jenkins using docker
+- Configure Jenkins “The DevOps way”, using Docker, Jobs DSL and Jenkins Pipelines
+- Use plugins to integrate Jenkins with popular development software
+        Docker
+        GitHub / Bitbucket
+        JFrog Artifactory
+        SonarQube
+        Onelogin (Using SAML)
+- Configure the authentication and authorization options to tighten security on your Jenkins UI
+
+
+
+```
+- Jenkins Install standalone/docker 
+- Building  projects c/c++,python,nodejs,Java,scala,go  
+- Jenkins Job DSL
+- jenkins Pipelines
+- jenkins integrations
+            - Email
+            - Slack
+            - GitHub
+            - Artifactory
+            - Custom API integrations
+            - Sonarqube 
+- Jenkins Configuration
+            - Jenkins Master/Slaves
+            -  Jenkins Slaves - using ssh/jnlp
+            - Blue ocean
+            - security
+            - Authentication/authorization
+            - 
+        
+- Full Lifecycle of Job Creation
+
+- Continuous Integration
+
+        Install Git and Jenkins GitHub Plugin
+        Install Maven on Our Local Box
+        Configure Jenkins to Work with Java, Git and Maven
+        Create our First Maven-based Jenkins Project
+        Trouble Shooting: Create our First Maven-based Jenkins Project
+        Run our First Jenkins Build and Jenkins Workspace
+        Trouble Shooting: Run our First Jenkins Build and Jenkins Workspace
+        Source Control Polling in Jenkins
+        Build Triggers of Jenkins
+
+
+
+- Continuous Inspection/Continuous Testing
+            - Job Configure for Test Report
+            - Test Report on Job Dashboard
+            - Code Quality and Code Coverage Metrics Report
+            - Jenkins' Support for Gradle, Ant and Shell Scripts
+
+
+- Continuous Delivery
+           - Install “Deploy to Container Plugin”
+           - Add Deploy Step and Run Job
+           . Archive Build Artifacts
+           - Install and Configure Tomcat as the Staging Environment
+           - Deploy to Staging Environment
+           - The latest Deploy to Container plugin
+           - Trouble Shooting: Deploy to Staging
+           - Jenkins Build Pipeline
+           - Parallel Jenkins Build
+           - Deploy to Production
+           - Trouble Shooting: Deploy to Production
+
+- Continuous Monitoring
+            - Create Slack Team and Install Jenkins CI App
+            - Install Slack Notification Plugin to Jenkins
+
+- Distributed Build System
+            - Windows Slave Agent as a Service
+            - Ubuntu Slave Agent as a Service
+
+- Pipeline
+            - Jenkinsfile
+
+- Jenkins in the Cloud (AWS)
+            - Create a Jenkins Master and a Jenkins Slave Machine
+            - Create a Key Pair to Connect between Jenkins Master and Jenkins Slave Machine
+            - Install Jenkins Server on AWS
+            - Install Java on Jenkins Slave Machine
+            - Configure a New Slave Agent from Jenkins
+
+ - Jenkins's Integration with Docker
+
+- Backup and Restore System
+        -  Install and Configure ThinBackup Plugin
+        - Manually Backup
+        - Restore from Backup
+
+
+- Security
+       - Allow Anonymous Read Access
+       - Create gol_developer User
+       - Matrix-based Security
+       - Role-based Security
+       - Disable Security
+
+```
