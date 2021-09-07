@@ -29,8 +29,10 @@
 3. DevOps Tool Capabilities
               - Self service project via project configuration portals
               - Policy configuration for Security, service levels, frameworks, usage, topology concerns
-              - Automated platform provisioning via service tier templates, frameworks, and policy enforcement points (PEP)
-              - Process automation with Continuous build, test, and deployment. Code promotion and synchronization across environments and servers
+              - Automated platform provisioning via service tier templates, frameworks, and 
+                policy enforcement points (PEP)
+              - Process automation with Continuous build, test, and deployment. Code promotion and 
+                synchronization across environments and servers
               - Dependency analysis and impact analysis
                 
 
@@ -43,7 +45,8 @@
                 
             Optimize
                 Dynamically right-size infrastructure scale
-                Re-use existing platform services and business services from resource pool instead of re-building solution stack
+                Re-use existing platform services and business services from resource pool instead 
+                of re-building solution stack
             Transformation
                 Time and effort required integrating business process, event processor – creating a complex app.
                 Time and effort required to apply policy across tenant(s)
