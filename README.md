@@ -1,5 +1,7 @@
 # DevOps Case Study project 
 
+[DevOps Project](https://github.com/cnb0/Simple-DevOps-Project)
+
 ```
 00.devops-concepts
 01.devops.scm
