@@ -1,8 +1,9 @@
 ## DevOps Practices, Principles , Tooling 
 
- Sucessful DevOps is all about principles, practices, and creating a collaborative environment that 
+- Sucessful DevOps is all about principles, practices, and creating a collaborative environment that 
  improves software delivery and increases business value not just adding infra tooling
  
+- DevOps: Continuous Delivery, Integration, and Deployment with DevOps
 
 ```
 1. DevOps Practices 
