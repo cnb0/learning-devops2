@@ -1,5 +1,4 @@
-
-
+ 
 Chapter 1: Securing DevOps
    
             1.1 The DevOps approach
@@ -14,8 +13,7 @@ Chapter 1: Securing DevOps
                 1.3.3 Assessing risks and maturing security
       
 Part 1: Case Study: Applying Layers Of Security To A Simple DevOps Pipeline
-   
-
+    
 Chapter 2: Building a barebones DevOps pipeline
             
             2.1 Implementation roadmap
