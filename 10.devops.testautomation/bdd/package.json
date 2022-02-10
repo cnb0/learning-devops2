@@ -37,7 +37,7 @@
     "jasmine": "^3.4.0",
     "jsdom": "^15.1.1",
     "mini-css-extract-plugin": "^0.7.0",
-    "node-sass": "^4.14.1",
+    "node-sass": "^7.0.0",
     "nyc": "^14.1.1",
     "sass-loader": "^7.1.0",
     "selenium-webdriver": "^4.0.0-alpha.4",
