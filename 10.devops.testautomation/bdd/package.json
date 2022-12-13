@@ -29,7 +29,7 @@
     "cross-env": "^5.2.0",
     "css-loader": "^2.1.1",
     "cucumber": "^5.1.0",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "file-loader": "^3.0.1",
     "geckodriver": "^1.19.1",
     "html-loader": "^0.5.5",
